@@ -1,6 +1,12 @@
 # ImgBlurFilterComparison
 ## Comparison of Average, Gaussian, Median and Bilateral filter
 The code of this project is seperated in two files, Similarity_test.py and Noise_test.py.
+To run the code you need:
+- Python
+- Open CV
+- Skicit-learn
+- Pandas
+- Numpy
 ### Similarity_test.py
 In this code the similarity between an image before and after blurring is tested. The results are the following:
 1. Image output of each filter:![filters_03](https://user-images.githubusercontent.com/89779679/132008071-cacfd612-4545-47dc-9260-6f106d7cac6c.jpg)
